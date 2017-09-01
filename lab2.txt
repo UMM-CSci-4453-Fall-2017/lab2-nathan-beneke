@@ -1,0 +1,5 @@
+Courtney Cook and Nathan Beneke
+
+The user (cashier or other worker) must be able to change the number of items in the inventory, delete items from
+the inventory, add new entries to the inventory, change the prices of items in the inventory, and probably have a lot
+of other controls as well.
